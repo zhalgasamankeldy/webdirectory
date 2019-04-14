@@ -1,0 +1,85 @@
+@using WebAppBallet.Models
+@model List<IGrouping<string, UserModel>>
+
+@{
+    ViewData["Title"] = "Пользователи";
+}
+
+<div id="tableBlock" class="col-md-12">
+    <div class="input-group">
+        <span class="input-group-addon"><span class="glyphicon glyphicon-search"></span></span>
+        <input type="text" id="myInput" class="form-control" onkeyup="myFunction()" placeholder="Поиск по ФИО">
+    </div><hr />
+    <p>
+        <a class="btn btn-success btn-sm" asp-action="Create">
+            <i class="fa fa-plus"></i>
+            Добавить
+        </a>
+    </p>
+    <div>
+        <table id='tbl' class="table">                        
+            <thead>
+                <tr id="head">
+                    <th>ФИО</th>
+                    <th>Должность</th>
+                    <th>Гор/Внутр номер</th>
+                    <th>Мобильный номер</th>
+                    <th>Email</th>
+                    <th>Кабинет</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+                @foreach (var users in Model)
+                {
+                    <tr>
+                        <td colspan="7" align='center' bgcolor='#D3EDF6'><b>@users.Key</b></td>
+                    </tr>
+                    foreach (var user in users)
+                    {
+                        <tr>
+                            <td>@user.FIO</td>
+                            <td>@user.Position</td>
+                            <td>@user.CityNumber / @user.LocalNumber</td>
+                            @if (!string.IsNullOrWhiteSpace(user.MobileNumber))
+                            {
+                                <td>@Html.Raw(user.MobileNumber.Replace(" ", "<br />"))</td>
+                            }
+                            else
+                            {
+                                <td>@user.MobileNumber</td>
+                            }
+                            <td>@user.Email</td>
+                            <td>@user.CabinetNumber</td>
+                            <td>
+                                <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@user.Id"><i class='fas fa-pencil-alt'></i></a>
+                                <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@user.Id"><i class="fa fa-info"></i></a>
+                                <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@user.Id"><i class="fa fa-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<script>
+    function myFunction() {
+        // Declare variables
+        var input = document.getElementById("myInput");
+        var filter = input.value.toUpperCase();
+        var table = document.getElementById("tbl");
+        var tr = table.getElementsByTagName("tr");
+        // Loop through all table rows, and hide those who don't match the search query
+        for (var i = 0; i < tr.length; i++) {
+            var td = tr[i].getElementsByTagName("td")[2];
+            if (td) {
+                if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+    }
+</script>

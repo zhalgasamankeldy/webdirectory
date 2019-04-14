@@ -1,0 +1,243 @@
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.deps.json
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.runtimeconfig.json
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.runtimeconfig.dev.json
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.dll
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.pdb
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.Views.dll
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.Views.pdb
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/DBLibrary.dll
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/DBLibrary.pdb
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csprojAssemblyReference.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csproj.CoreCompileInputs.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorAssemblyInfo.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorAssemblyInfo.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.AssemblyInfoInputs.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.AssemblyInfo.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.TagHelpers.input.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.TagHelpers.output.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorCoreGenerate.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Account/Login.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Account/Register.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Create.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Delete.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Details.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Edit.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Index.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Directory.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Schedule.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_AllDirectory.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_ChosenDirectory.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Create.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Delete.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Details.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Edit.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Index.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorTargetAssemblyInfo.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorTargetAssemblyInfo.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.Views.pdb
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csproj.CopyComplete
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.dll
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.pdb
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.deps.json
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.runtimeconfig.json
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.runtimeconfig.dev.json
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.dll
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.pdb
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.Views.dll
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.Views.pdb
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/DBLibrary.dll
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/DBLibrary.pdb
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csprojAssemblyReference.cache
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csproj.CoreCompileInputs.cache
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorAssemblyInfo.cache
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorAssemblyInfo.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.AssemblyInfoInputs.cache
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.AssemblyInfo.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.TagHelpers.input.cache
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.TagHelpers.output.cache
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorCoreGenerate.cache
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Account/Login.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Account/Register.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Create.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Delete.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Details.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Edit.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Index.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Directory.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Schedule.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_AllDirectory.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_ChosenDirectory.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Create.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Delete.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Details.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Edit.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Index.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorTargetAssemblyInfo.cache
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorTargetAssemblyInfo.cs
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.Views.pdb
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csproj.CopyComplete
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.dll
+G:/Мои документы/.net core/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.pdb
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.deps.json
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.runtimeconfig.json
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.runtimeconfig.dev.json
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.dll
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.pdb
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.Views.dll
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.Views.pdb
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/DBLibrary.dll
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/DBLibrary.pdb
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csprojAssemblyReference.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csproj.CoreCompileInputs.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorAssemblyInfo.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorAssemblyInfo.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.AssemblyInfoInputs.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.AssemblyInfo.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.TagHelpers.input.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.TagHelpers.output.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorCoreGenerate.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Account/Login.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Account/Register.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Create.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Delete.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Details.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Edit.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Index.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Directory.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Schedule.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_AllDirectory.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_ChosenDirectory.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Create.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Delete.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Details.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Edit.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Index.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorTargetAssemblyInfo.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorTargetAssemblyInfo.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.Views.pdb
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csproj.CopyComplete
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.dll
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.pdb
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.deps.json
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.runtimeconfig.json
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.runtimeconfig.dev.json
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.dll
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.pdb
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.Views.dll
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.Views.pdb
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/DBLibrary.dll
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/DBLibrary.pdb
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csprojAssemblyReference.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csproj.CoreCompileInputs.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorAssemblyInfo.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorAssemblyInfo.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.AssemblyInfoInputs.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.AssemblyInfo.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.TagHelpers.input.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.TagHelpers.output.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorCoreGenerate.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Account/Login.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Account/Register.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Create.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Delete.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Details.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Edit.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Index.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Directory.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Schedule.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_AllDirectory.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_ChosenDirectory.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Create.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Delete.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Details.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Edit.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Index.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorTargetAssemblyInfo.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorTargetAssemblyInfo.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.Views.pdb
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csproj.CopyComplete
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.dll
+G:/Мои документы/Рабочий стол/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.pdb
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_AllDirectory1.g.cshtml.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_ChosenDirectory1.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.deps.json
+/home/develop/Desktop/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.runtimeconfig.json
+/home/develop/Desktop/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.runtimeconfig.dev.json
+/home/develop/Desktop/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.dll
+/home/develop/Desktop/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.pdb
+/home/develop/Desktop/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.Views.dll
+/home/develop/Desktop/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/WebAppBallet.Views.pdb
+/home/develop/Desktop/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/DBLibrary.dll
+/home/develop/Desktop/WebAppBallet/WebAppBallet/bin/Release/netcoreapp2.2/DBLibrary.pdb
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csprojAssemblyReference.cache
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csproj.CoreCompileInputs.cache
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorAssemblyInfo.cache
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorAssemblyInfo.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.AssemblyInfoInputs.cache
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.AssemblyInfo.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.TagHelpers.input.cache
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.TagHelpers.output.cache
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorCoreGenerate.cache
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Account/Login.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Account/Register.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Create.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Delete.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Details.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Edit.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Departments/Index.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Directory.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/Schedule.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_AllDirectory.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Home/_ChosenDirectory.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Create.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Delete.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Details.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Edit.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/Index.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorTargetAssemblyInfo.cache
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.RazorTargetAssemblyInfo.cs
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.Views.pdb
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.csproj.CopyComplete
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.dll
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/WebAppBallet.pdb
+/home/develop/Desktop/WebAppBallet/WebAppBallet/obj/Release/netcoreapp2.2/Razor/Views/Users/List.g.cshtml.cs

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppBallet", "WebAppBallet\WebAppBallet.csproj", "{6C412536-2181-4EEA-8558-0651CB0BEDF3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7C122852-EBF3-4320-AC26-3179717A6A94} = {7C122852-EBF3-4320-AC26-3179717A6A94}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBLibrary", "DBLibrary\DBLibrary.csproj", "{7C122852-EBF3-4320-AC26-3179717A6A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C412536-2181-4EEA-8558-0651CB0BEDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C412536-2181-4EEA-8558-0651CB0BEDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C412536-2181-4EEA-8558-0651CB0BEDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C412536-2181-4EEA-8558-0651CB0BEDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C122852-EBF3-4320-AC26-3179717A6A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C122852-EBF3-4320-AC26-3179717A6A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C122852-EBF3-4320-AC26-3179717A6A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C122852-EBF3-4320-AC26-3179717A6A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6884C1E-D549-4718-99A0-D05D31A0BCFB}
+	EndGlobalSection
+EndGlobal

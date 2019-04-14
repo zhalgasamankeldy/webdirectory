@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/develop/Desktop/WebAppBallet/DBLibrary/DBLibrary.csproj": {}
+  },
+  "projects": {
+    "/home/develop/Desktop/WebAppBallet/DBLibrary/DBLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/develop/Desktop/WebAppBallet/DBLibrary/DBLibrary.csproj",
+        "projectName": "DBLibrary",
+        "projectPath": "/home/develop/Desktop/WebAppBallet/DBLibrary/DBLibrary.csproj",
+        "packagesPath": "/home/develop/.nuget/packages/",
+        "outputPath": "/home/develop/Desktop/WebAppBallet/DBLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/develop/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

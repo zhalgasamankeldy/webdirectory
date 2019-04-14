@@ -1,0 +1,55 @@
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.deps.json
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.runtimeconfig.json
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.runtimeconfig.dev.json
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.dll
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.pdb
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.csprojAssemblyReference.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.csproj.CoreCompileInputs.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.AssemblyInfoInputs.cache
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.AssemblyInfo.cs
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.dll
+C:/Users/amankeldy_zh/source/repos/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.pdb
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.deps.json
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.runtimeconfig.json
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.runtimeconfig.dev.json
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.dll
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.pdb
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.csprojAssemblyReference.cache
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.csproj.CoreCompileInputs.cache
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.AssemblyInfoInputs.cache
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.AssemblyInfo.cs
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.dll
+G:/Мои документы/.net core/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.pdb
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.deps.json
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.runtimeconfig.json
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.runtimeconfig.dev.json
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.dll
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.pdb
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.csprojAssemblyReference.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.csproj.CoreCompileInputs.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.AssemblyInfoInputs.cache
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.AssemblyInfo.cs
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.dll
+G:/Мои документы/Рабочий стол/Прокты АстанаБалет/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.pdb
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.deps.json
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.runtimeconfig.json
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.runtimeconfig.dev.json
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.dll
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.pdb
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.csprojAssemblyReference.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.csproj.CoreCompileInputs.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.AssemblyInfoInputs.cache
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.AssemblyInfo.cs
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.dll
+G:/Мои документы/Рабочий стол/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.pdb
+/home/develop/Desktop/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.deps.json
+/home/develop/Desktop/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.runtimeconfig.json
+/home/develop/Desktop/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.runtimeconfig.dev.json
+/home/develop/Desktop/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.dll
+/home/develop/Desktop/WebAppBallet/DBLibrary/bin/Release/netcoreapp2.2/DBLibrary.pdb
+/home/develop/Desktop/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.csprojAssemblyReference.cache
+/home/develop/Desktop/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.csproj.CoreCompileInputs.cache
+/home/develop/Desktop/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.AssemblyInfoInputs.cache
+/home/develop/Desktop/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.AssemblyInfo.cs
+/home/develop/Desktop/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.dll
+/home/develop/Desktop/WebAppBallet/DBLibrary/obj/Release/netcoreapp2.2/DBLibrary.pdb

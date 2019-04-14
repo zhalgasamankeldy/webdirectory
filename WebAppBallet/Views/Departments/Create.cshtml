@@ -1,0 +1,38 @@
+﻿@model DBLibrary.Models.Department
+
+@{
+    ViewData["Title"] = "Добавление";
+}
+
+<h1>Добавление</h1>
+
+<h4>Отдел</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DepartmentName" class="control-label">Название</label>
+                <input asp-for="DepartmentName" class="form-control" />
+                <span asp-validation-for="DepartmentName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SequenceNumber" class="control-label">Порядковый номер</label>
+                <input asp-for="SequenceNumber" class="form-control" />
+                <span asp-validation-for="SequenceNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Добавить" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-primary" asp-action="Index">Назад</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

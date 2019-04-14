@@ -1,0 +1,56 @@
+﻿@using WebAppBallet.Models
+@model List<IGrouping<string, UserModel>>
+
+<thead>
+    <tr id="head">
+        <th>ФИО</th>
+        <th>Должность</th>
+        <th>Гор/Внутр номер</th>
+        <th>Мобильный номер</th>
+        <th>Email</th>
+        <th>Кабинет</th>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <th></th>
+        }
+    </tr>
+</thead>
+<tbody id="tableBody">
+    @foreach (var users in Model)
+    {
+        <tr>
+            <td colspan="7" align='center' bgcolor='#D3EDF6'><b>@users.Key</b></td>
+        </tr>
+        foreach (var user in users)
+        {
+            <tr>
+                <td>@user.FIO</td>
+                <td>@user.Position</td>
+                <td>@user.CityNumber / @user.LocalNumber</td>
+                @if (!string.IsNullOrWhiteSpace(user.MobileNumber))
+                {
+                    <td>@Html.Raw(user.MobileNumber.Replace(" ", "<br />"))</td>
+                }
+                else
+                {
+                    <td>@user.MobileNumber</td>
+                }
+                <td>@user.Email</td>
+                <td>@user.CabinetNumber</td>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <td style="text-align: center; vertical-align: middle;">
+                        <div class="plus-minus">
+                            <input type="checkbox" name="AddedToId" id="all-@user.Id" class="css-checkbox" value="@user.Id"
+                                   @(ViewBag.Friends.Contains(user.Id) ? "checked=\"checked\"" : "") />
+                            <label for="all-@user.Id" class="css-label">
+                                <span class="fa fa-plus"></span>
+                                <span class="fa fa-minus"></span>
+                            </label>
+                        </div>
+                    </td>
+                }
+            </tr>
+        }
+    }
+</tbody>

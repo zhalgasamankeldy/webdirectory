@@ -1,0 +1,111 @@
+﻿@using WebAppBallet.Models
+@model List<IGrouping<string, UserModel>>
+@{
+    ViewData["Title"] = "Справочник";
+}
+
+<div id="tableBlock" class="col-md-12">
+    <div class="input-group">
+        <span class="input-group-addon"><span class="glyphicon glyphicon-search"></span></span>
+        <input type="text" id="myInput" class="form-control" onkeyup="myFunction()" placeholder="Поиск по ФИО">
+    </div><hr />
+    <div>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" id="pills-all-tab" data-toggle="pill" href="#pills-all" role="tab" aria-controls="pills-all" aria-selected="true">Все</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="pills-chosen-tab" data-toggle="pill" href="#pills-chosen" role="tab" aria-controls="pills-chosen" aria-selected="false">Избранные</a>
+                </li>
+            </ul>
+            <div class="tab-content" id="pills-tabContent">
+                <div class="tab-pane fade show active" id="pills-all" role="tabpanel" aria-labelledby="pills-all-tab">
+                    <table id='all-tbl' class="table">
+                        @await Html.PartialAsync("_AllDirectory", Model)
+                    </table>
+                </div>
+                <div class="tab-pane fade" id="pills-chosen" role="tabpanel" aria-labelledby="pills-chosen-tab">
+                    <table id='tbl' class="table">
+                        @await Html.PartialAsync("_ChosenDirectory", ViewData["Chosens"], new ViewDataDictionary(ViewData) { })
+                    </table>
+                </div>
+            </div>
+        }
+        else
+        {
+            <table id='tbl' class="table">
+                @await Html.PartialAsync("_AllDirectory", Model)
+            </table>
+        }
+    </div>
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#pills-chosen-tab").click(function () {
+                //window.location.reload(true);
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $("input[type='checkbox']").change(function () {
+            var data = {
+                AddedToId: $(this).val().trim()
+            }
+            Save(data);
+        });
+
+        function Save(data) {
+            $.ajax({
+                type: "POST",
+                url: '/Home/AddFriend',
+                data: data,
+                success: function () {
+                    //toastr.options.timeOut = 1500;
+                    toastr.success('Выполнена');
+                },
+                error: function () {
+                    toastr.error('errors messages');
+                    alert('Failed');
+                }
+            })
+        }
+    </script>
+    <script>
+        function myFunction() {
+            // Declare variables
+            var input = document.getElementById("myInput");
+            var filter = input.value.toUpperCase();
+            var table = document.getElementById("tbl");
+            var tr = table.getElementsByTagName("tr");
+            // Loop through all table rows, and hide those who don't match the search query
+            for (var i = 0; i < tr.length; i++) {
+                var td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+
+            var table = document.getElementById("all-tbl");
+            var tr = table.getElementsByTagName("tr");
+            // Loop through all table rows, and hide those who don't match the search query
+            for (var i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+    </script>
+}

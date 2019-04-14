@@ -1,0 +1,99 @@
+﻿@model DBLibrary.Models.User
+
+@{
+    ViewData["Title"] = "Удаление";
+}
+
+<h1>Удаление</h1>
+
+<h3>Вы действительно хотите удалить эту запись?</h3>
+<div>
+    <h4>Пользователь</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayName("Логин")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Login)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Фамилия")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Имя")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Отчество")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Должность")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Position)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Городской номер")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CityNumber)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Внутренний номер")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LocalNumber)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Мобильный номер")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MobileNumber)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Email")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("№ кабинета")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CabinetNumber)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Порядковый номер")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SequenceNumber)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Права")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Role.RoleDescription)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayName("Отдел")
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Department.DepartmentName)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <a class="btn btn-primary" asp-action="List"><i class='far fa-arrow-alt-circle-left'></i> Назад</a>
+        <button type="submit" class="btn btn-danger"><i class="fa fa-trash"></i> Удалить</button>
+    </form>
+</div>

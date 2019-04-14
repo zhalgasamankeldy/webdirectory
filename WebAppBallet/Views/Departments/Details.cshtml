@@ -1,0 +1,30 @@
+﻿@model DBLibrary.Models.Department
+
+@{
+    ViewData["Title"] = "Подробнее";
+}
+
+<h1>Подробнее</h1>
+
+<div>
+    <h4>Отдел</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayName("Название")
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DepartmentName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayName("порядковый номер")
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SequenceNumber)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-primary btn-sm"  asp-action="Index"><i class='far fa-arrow-alt-circle-left'></i></a> |
+    <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@Model.Id"><i class='fas fa-pencil-alt'></i></a>
+</div>

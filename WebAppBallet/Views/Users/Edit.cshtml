@@ -1,0 +1,97 @@
+﻿@model DBLibrary.Models.User
+
+@{
+    ViewData["Title"] = "Редактирование";
+}
+
+<h1>Редактирование</h1>
+
+<h4>Пользователь</h4>
+<hr />
+<form asp-action="Edit">
+    <div class="form-row">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group col-md-6">
+            <label asp-for="Login" class="control-label">Логин</label>
+            <input asp-for="Login" class="form-control" />
+            <span asp-validation-for="Login" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-6">
+            <label asp-for="Password" class="control-label">Пароль</label>
+            <input type="password" asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label asp-for="FirstName" class="control-label">Фамилия</label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label asp-for="Name" class="control-label">Имя</label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label asp-for="LastName" class="control-label">Отчество</label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-6">
+            <label asp-for="DepartmentId" class="control-label">Отдел</label>
+            <select asp-for="DepartmentId" class="form-control" asp-items="ViewBag.DepartmentId"></select>
+            <span asp-validation-for="DepartmentId" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-6">
+            <label asp-for="Position" class="control-label">Должность</label>
+            <input asp-for="Position" class="form-control" />
+            <span asp-validation-for="Position" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-3">
+            <label asp-for="CityNumber" class="control-label">Городской номер</label>
+            <input asp-for="CityNumber" class="form-control" />
+            <span asp-validation-for="CityNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-3">
+            <label asp-for="LocalNumber" class="control-label">Внутренний номер</label>
+            <input asp-for="LocalNumber" class="form-control" />
+            <span asp-validation-for="LocalNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-3">
+            <label asp-for="MobileNumber" class="control-label">Мобильный номер</label>
+            <input asp-for="MobileNumber" class="form-control" />
+            <span asp-validation-for="MobileNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-3">
+            <label asp-for="Email" class="control-label">Email</label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label asp-for="CabinetNumber" class="control-label">№ кабинета</label>
+            <input asp-for="CabinetNumber" class="form-control" />
+            <span asp-validation-for="CabinetNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label asp-for="SequenceNumber" class="control-label">Порядковый номер</label>
+            <input asp-for="SequenceNumber" class="form-control" />
+            <span asp-validation-for="SequenceNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-4">
+            <label asp-for="RoleId" class="control-label">Права</label>
+            <select asp-for="RoleId" class="form-control" asp-items="ViewBag.RoleId"></select>
+            <span asp-validation-for="RoleId" class="text-danger"></span>
+        </div>
+        <div class="form-group col-md-2">
+            <a class="btn btn-primary" asp-action="List">Назад</a>
+        </div>
+        <div class="form-group col-md-2">
+            <input type="submit" value="Сохранить" class="btn btn-success" />
+        </div>
+    </div>
+</form>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,116 @@
+﻿@model IEnumerable<DBLibrary.Models.User>
+
+@{
+    ViewData["Title"] = "Пользователи";
+}
+
+<div class="input-group">
+    <span class="input-group-addon"><span class="glyphicon glyphicon-search"></span></span>
+    <input type="text" id="myInput" class="form-control" onkeyup="myFunction()" placeholder="Поиск по ФИО">
+</div><hr />
+<h1>Пользователи</h1>
+<p>
+    <a class="btn btn-success btn-sm" asp-action="Create">
+        <i class="fa fa-plus"></i>
+        Добавить
+    </a>
+</p>
+<table class="table" id="tbl">
+    <thead class="thead-light">
+        <tr>
+            <th>
+                @Html.DisplayName("Логин")
+            </th>
+            <th>
+                @Html.DisplayName("ФИО")
+            </th>
+            <th>
+                @Html.DisplayName("Должность")
+            </th>
+            <th>
+                @Html.DisplayName("Гор/Внутр номер")
+            </th>
+            <th>
+                @Html.DisplayName("Мобильный номер")
+            </th>
+            <th>
+                @Html.DisplayName("Email")
+            </th>
+            <th>
+                @Html.DisplayName("Кабинет")
+            </th>
+            <th>
+                @Html.DisplayName("Права")
+            </th>
+            <th>
+                @Html.DisplayName("Отдел")
+            </th>
+            <th>
+                @Html.DisplayName("Порядковый номер")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Login)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FIO)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Position)
+                </td>
+                <td>
+                    @item.CityNumber / @item.LocalNumber
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MobileNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CabinetNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Role.RoleDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Department.DepartmentName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SequenceNumber)
+                </td>
+                <td>
+                    <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@item.Id"><i class='fas fa-pencil-alt'></i></a>
+                    <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@item.Id"><i class="fa fa-info"></i></a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id"><i class="fa fa-trash"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script>
+    function myFunction() {
+        // Declare variables
+        var input = document.getElementById("myInput");
+        var filter = input.value.toUpperCase();
+        var table = document.getElementById("tbl");
+        var tr = table.getElementsByTagName("tr");
+        // Loop through all table rows, and hide those who don't match the search query
+        for (var i = 0; i < tr.length; i++) {
+            var td = tr[i].getElementsByTagName("td")[2];
+            if (td) {
+                if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+    }
+</script>
