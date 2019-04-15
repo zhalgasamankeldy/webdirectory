@@ -17,7 +17,7 @@
         </a>
     </p>
     <div>
-        <table id='tbl' class="table">                        
+        <table id='tbl-users' class="table">                        
             <thead>
                 <tr id="head">
                     <th>ФИО</th>
@@ -68,11 +68,11 @@
         // Declare variables
         var input = document.getElementById("myInput");
         var filter = input.value.toUpperCase();
-        var table = document.getElementById("tbl");
+        var table = document.getElementById("tbl-users");
         var tr = table.getElementsByTagName("tr");
         // Loop through all table rows, and hide those who don't match the search query
         for (var i = 0; i < tr.length; i++) {
-            var td = tr[i].getElementsByTagName("td")[2];
+            var td = tr[i].getElementsByTagName("td")[0];
             if (td) {
                 if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
                     tr[i].style.display = "";

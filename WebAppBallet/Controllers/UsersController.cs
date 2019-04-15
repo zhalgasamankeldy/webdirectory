@@ -109,6 +109,7 @@ namespace WebAppBallet.Controllers
             {
                 return NotFound();
             }
+            ViewData["Password"] = user.Password;
             ViewData["DepartmentId"] = new SelectList(_context.Departments.OrderBy(d => d.SequenceNumber), "Id", "DepartmentName", user.DepartmentId);
             ViewData["RoleId"] = new SelectList(_context.Roles, "Id", "RoleDescription", user.RoleId);
             return View(user);
@@ -119,7 +120,7 @@ namespace WebAppBallet.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Email,Login,Password,FirstName,Name,LastName,Position,CityNumber,LocalNumber,MobileNumber,CabinetNumber,SequenceNumber,RoleId,DepartmentId")] User user)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Email,Login,Password,FirstName,Name,LastName,Position,CityNumber,LocalNumber,MobileNumber,CabinetNumber,SequenceNumber,RoleId,DepartmentId")] User user, string Pwd)
         {
             if (id != user.Id)
             {
@@ -130,6 +131,8 @@ namespace WebAppBallet.Controllers
             {
                 try
                 {
+                    if(user.Password == null)
+                        user.Password = Pwd;
                     _context.Update(user);
                     await _context.SaveChangesAsync();
                 }
