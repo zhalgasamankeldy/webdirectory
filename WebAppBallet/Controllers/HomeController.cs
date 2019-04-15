@@ -54,7 +54,7 @@ namespace WebAppBallet.Controllers
                 var friends = await _context.Friends.Where(f => f.AddedById == currentUser.Id).Select(f => f.AddedToId).ToListAsync();
                 ViewData["Friends"] = friends;
             }
-            list = await _context.Users.Include(u => u.Department).Select(u => new UserModel
+            list = await _context.Users.Include(u => u.Department).Where(u => u.SequenceNumber > 0).Select(u => new UserModel
             {
                 Id = u.Id,
                 FIO = u.FIO,
